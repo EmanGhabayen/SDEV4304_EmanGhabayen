@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Startup_Application:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Startup_Application.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Startup_Application" />
+    </root>
+  </artifact>
+</component>
