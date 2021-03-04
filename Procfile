@@ -1,1 +1,1 @@
-web: java -jar target/Startup_Application.jar
+web: java -jar target/Startup_Application-1.0.jar
